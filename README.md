@@ -2,7 +2,7 @@
 Receipt Processor Challenge - Fetch Coding Assessment
 
 ## Endpoints
-# POST /receipts/process
+### POST /receipts/process
 JSON must contain:
 - retailer
 - purchaseDate
@@ -10,7 +10,7 @@ JSON must contain:
 - items
 - total
 
-# GET /receipts/{id}/points
+### GET /receipts/{id}/points
 JSON must contain:
 - id
 
