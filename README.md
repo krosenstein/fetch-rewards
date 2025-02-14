@@ -20,6 +20,8 @@ JSON must contain:
 
 ## Usage
 In the receipt_processor directory, run:
+'''
 docker-compose up --build
+'''
 
 Navigate to localhost:8000 and test it out!
