@@ -1,6 +1,8 @@
 # fetch-rewards
 Receipt Processor Challenge - Fetch Coding Assessment
 
+
+
 ## Endpoints
 ### POST /receipts/process
 JSON must contain:
@@ -13,6 +15,8 @@ JSON must contain:
 ### GET /receipts/{id}/points
 JSON must contain:
 - id
+
+
 
 ## Usage
 In the receipt_processor directory, run:
